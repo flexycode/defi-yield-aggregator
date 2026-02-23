@@ -650,8 +650,8 @@ playwright.config.ts
 
 | Task ID | Title | Status |
 |---------|-------|--------|
-| P2-FE-001 | Initialize React Application | ⬜ |
-| P2-FE-002 | Configure Web3 Provider | ⬜ |
+| P2-FE-001 | Initialize React Application | ✅ |
+| P2-FE-002 | Configure Web3 Provider | ✅ |
 | P2-FE-003 | Create Contract Service Layer | ⬜ |
 | P2-FE-004 | Design System Setup | ⬜ |
 | P2-FE-005 | Build Common Components | ⬜ |
