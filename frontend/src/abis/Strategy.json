@@ -1,0 +1,5 @@
+[
+    "function name() external view returns (string)",
+    "function apr() external view returns (uint256)",
+    "function isActive() external view returns (bool)"
+]

@@ -1,0 +1,5 @@
+[
+    "function getStrategyAllocation(address strategy) external view returns (uint256)",
+    "function totalStrategies() external view returns (uint256)",
+    "function totalAssetsInStrategies() external view returns (uint256)"
+]
